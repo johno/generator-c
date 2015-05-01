@@ -1,0 +1,21 @@
+{
+  "name": "<%= packageName %>",
+  "description": "<%= description %>",
+  "author": "<%= name %>",
+  "version": "0.0.1",
+  "style": "index.css",
+  "directories": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<%= github %>/<%= packageName %>.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/<%= github %>/<%= packageName %>/issues"
+  },
+  "homepage": "https://github.com/<%= github %>/<%= packageName %>",
+  "dependencies": {},
+  "devDependencies": {}
+}
