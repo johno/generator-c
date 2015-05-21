@@ -14,7 +14,7 @@ var CGenerator = yeoman.generators.Base.extend({
     var done = this.async();
 
     this.log(yosay(
-      'Welcome to the minimal npm package generator'
+      'Welcome to the minimal npm CSS module generator'
     ));
 
     var prompts = [{
